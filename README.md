@@ -13,6 +13,10 @@ This project uses computer vision to detect push-ups via elbow angles and provid
 - ✅ Saves output video (output_pushups.avi)  
 
 ---
+🎥 Demo
+
+![App Demo](demo.gif)
+---
 
 ## 🛠 Requirements
 Make sure you have Python 3.7+ installed. Install dependencies with:
@@ -48,15 +52,11 @@ pushup-detection/
 
 ---
 
-🎥 Demo
-
-![App Demo](demo.gif)
----
-
 📜 License
 
 
 This project is licensed under the MIT License — free to use and modify.
+
 
 
 
