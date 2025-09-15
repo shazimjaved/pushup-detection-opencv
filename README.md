@@ -50,10 +50,11 @@ pushup-detection/
 
 🎥 Demo
 
-[Watch Full Demo](https://github.com/shazimjaved/pushup-detection-opencv/blob/main/output.avi?raw=true)
+[Watch Full Demo](https://github.com/shazimjaved/pushup-detection-opencv/blob/main/output_pushups.avi?raw=true)
 ---
 
 📜 License
 
 
 This project is licensed under the MIT License — free to use and modify.
+
