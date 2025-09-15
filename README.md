@@ -50,13 +50,14 @@ pushup-detection/
 
 🎥 Demo
 
-![Watch Demo](demo.gif)
+![App Demo](demo.gif)
 ---
 
 📜 License
 
 
 This project is licensed under the MIT License — free to use and modify.
+
 
 
 
