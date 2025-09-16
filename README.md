@@ -15,7 +15,7 @@ This project uses computer vision to detect push-ups via elbow angles and provid
 ---
 🎥 Demo
 
-![App Demo](.\demo.gif)
+![App Demo](push-detection-opencv/demo.gif)
 ---
 
 ## 🛠 Requirements
@@ -56,6 +56,7 @@ pushup-detection/
 
 
 This project is licensed under the MIT License — free to use and modify.
+
 
 
 
